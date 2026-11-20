@@ -119,7 +119,7 @@ Aqui, o mesmo algoritmo (Regressão Logística) aprende um período por vez. Ela
 | Fixa (limiar 0,60)   |       0,574 |    0,924 |     0,417 |     0,889 |     0,661 |
 | **Online com river** |   **0,873** |    0,856 | **0,892** | **0,937** | **0,858** |
 
-O modelo online acompanhou a mudança de preço e acertou mais que o modelo fixo em 25 das 27 semanas do teste. As configurações do river não foram ajustadas, então o teste não foi usado para nenhuma escolha.
+O modelo online acompanhou a mudança de preço e acertou mais que o modelo fixo em 26 das 27 semanas do teste. As configurações do river não foram ajustadas, então o teste não foi usado para nenhuma escolha.
 
 ## Conclusão
 
